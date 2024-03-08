@@ -1,0 +1,6 @@
+[submodule "generics"]
+	path = generics
+	url = https://github.com/r-lib/generics.git
+[submodule "pkgdepends.test.002/inst/generics"]
+	path = pkgdepends.test.002/inst/generics
+	url = https://github.com/r-lib/generics.git
